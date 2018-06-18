@@ -17,7 +17,7 @@ char firstNonRepeatingChar (char sentence[], int length){
     	}
 
     	if(x == 1){
-    		printf("A primeira letra que não se repete em %s é: %c",sentence,sentence[i]);
+    		printf("A 1a letra que não se repete em %s é: %c",sentence,sentence[i]);
     		break;
     	}
     }
